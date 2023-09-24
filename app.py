@@ -1,7 +1,6 @@
-from flask import Flask, render_template, request, jsonify
-import chatbot_api  # Assuming your chatbot code is in chatbot_api.py
+  # Assuming your chatbot code is in chatbot_api.py
 
-app = Flask(__name__)
+
 
 @app.route('/')
 @app.route('/index')
@@ -19,5 +18,4 @@ def chatbot_endpoint():
 
     return jsonify({"error": "Invalid request format"}), 400
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
