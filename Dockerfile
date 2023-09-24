@@ -9,7 +9,7 @@ RUN apk add --no-cache \
     build-base \
     libc6-compat
 
-ARG HUGO_VERSION
+
 
 RUN mkdir $HOME/src && \
     cd $HOME/src && \
