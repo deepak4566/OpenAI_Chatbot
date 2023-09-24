@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -85,7 +85,7 @@
           success: function (response) {
             var botResponse = response.response;
 
-            // Create a new div for bot response
+            
             var botMessageDiv = $(
               '<div class="message bot-message typing">STM: </div>'
             );
@@ -99,7 +99,7 @@
             $("#chat-log").append(botMessageDiv);
             $("#chat-log").scrollTop($("#chat-log")[0].scrollHeight);
 
-            // Show the bot typing effect div and start typing animation
+            
             typeMessage(botResponse, 0, botMessageDiv);
 
             // Append bot response to chat log when typing effect completes
