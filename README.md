@@ -1,4 +1,4 @@
-# OpenAI's Chatbot for STM
+# OpenAI's Chatbot 
 
 This is a simple web-based chatbot application that uses OpenAI's GPT-3.5-turbo model to generate responses in a conversation with users with custom knowledge. The chatbot can engage in interactive conversations, respond to user input, and provide helpful information based on the given context.
 
@@ -14,7 +14,7 @@ This is a simple web-based chatbot application that uses OpenAI's GPT-3.5-turbo 
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/ServiceToMankind/openapi_chatbot
+git clone https://github.com/deepak4566/AI_AUTOMATED_CHATBOT
 ```
 
 2. Install the required dependencies using pip.
