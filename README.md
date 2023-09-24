@@ -4,10 +4,7 @@
 
 ## Features
 
-- Custom knowledge
-- Engage in natural language conversations with users.
-- Utilize OpenAI's GPT-3.5-turbo model for generating responses.
-- Interactive web interface for easy user interaction.
+
 
 ## Installation and Setup
 
