@@ -1,6 +1,6 @@
 # OpenAI's Chatbot 
 
-This is a simple web-based chatbot application that uses OpenAI's GPT-3.5-turbo model to generate responses in a conversation with users with custom knowledge. The chatbot can engage in interactive conversations, respond to user input, and provide helpful information based on the given context.
+
 
 ## Features
 
