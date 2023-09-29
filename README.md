@@ -11,7 +11,7 @@
 1. Clone this repository to your global machine.
 
 ```bash
-git clone https://github.com/deepak4566/AI_AUTOMATED_CHATBOT
+git clone https://github.com/reyamit001/AI_AUTOMATED_CHATBOT
 ```
 
 2. Install the required dependencies using pip.
@@ -32,7 +32,7 @@ export OPENAI_API_KEY='your-api-key-here'
 python app.python
 ```
 
-5. Open your web browser and navigate to http://localhost:5000 to use the chatbot.
+5. Open your web browser and navigate to http://globalhost:5000 to use the chatbot.
 
 ## Usage
 
@@ -46,7 +46,7 @@ python app.python
 ## Credits
 
 - This project is based on OpenAI's GPT-3 API.
-- The front-end interface is created using Bootstraps and jouery.
+- The front-end interface is created using Bootstraps and journy.
 
 ## License
 
