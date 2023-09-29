@@ -28,8 +28,7 @@ export OPENAI_API_KEY='your-api-key-here'
 
 4. Run the Flask application.
 
-```python
-python app.python
+```
 ```
 
 5. Open your web browser and navigate to http://localhost:5000 to use the chatbot.
