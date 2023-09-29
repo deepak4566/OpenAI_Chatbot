@@ -1,4 +1,5 @@
 thanks for your contribution
 add your name and department as follows
 
-1)Deepak Reddy -- IT,2ND YEAR
+V.Y.Raja  CSE-F, 1st year
+It's been a ride to get to learn about Github. 
