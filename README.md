@@ -1,6 +1,5 @@
-# OpenAI's Chatbot.
+#Poojya OpenAI's Chatbot.
 
-Poojya
 
 ## Features
 
