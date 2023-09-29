@@ -46,7 +46,7 @@ python app.python
 ## Credits
 
 - This project is based on OpenAI's GPT-3 API.
-- The front-end interface is created using Bootstrap and jQuery.
+- The front-end interface is created using Bootstraps and jouery.
 
 ## License
 
