@@ -28,7 +28,7 @@ export OPENAI_API_KEY='your-api-key-here'
 
 4. Run the Flask application.
 
-```python
+```
 python app.python
 ```
 
