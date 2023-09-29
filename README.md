@@ -6,7 +6,7 @@
 
 
 ## Installation and Setup.
-
+   
 1. Clone this repository to your local machine.
 
 ```bash
