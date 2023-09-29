@@ -11,7 +11,7 @@
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/deepak4566/AI_AUTOMATED_CHATBOT
+git clone https://github.com/pranav/AI_AUTOMATED_CHATBOT
 ```
 
 2. Install the required dependencies using pip.
