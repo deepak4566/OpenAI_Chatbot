@@ -1,6 +1,4 @@
 # Avanindra's Chatbot 
-# This is amazing chatbot :]
-# GDSC is amazing
 
 
 ## Features
