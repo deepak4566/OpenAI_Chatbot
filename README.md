@@ -1,9 +1,9 @@
 # OpenAI's Chatbot 
-
+# Name - V.Y.Raja
 
 
 ## Features
-
+Usage of Chat GPT-3 API
 
 
 ## Installation and Setup
