@@ -54,4 +54,4 @@ This project is licensed under the IIT License - see the [LICENSE](https://githu
 
 ## Greetings
 
-This work was made by vignesh.I am at right corner guy in red shirt between two idiots
+This work was made by vignesh
