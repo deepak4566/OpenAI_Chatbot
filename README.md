@@ -22,9 +22,7 @@ pip install -r requirements.txt
 
 3. export OPENAI_API_KEY
 
-```bash
-export OPENAI_API_KEY='your-api-key-here'
-```
+suha
 
 4. Run the Flask application.
 
