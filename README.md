@@ -1,4 +1,4 @@
-# OpenAI's Chatbot 
+# OpenAI's CHATBOT
 
 
 
@@ -8,7 +8,7 @@
 
 ## Installation and Setup
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your LOCAL-MACHINE.
 
 ```bash
 git clone https://github.com/deepak4566/AI_AUTOMATED_CHATBOT
