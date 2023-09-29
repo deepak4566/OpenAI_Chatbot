@@ -1,12 +1,12 @@
-# OpenAI's Chatbot 
+# OpenAI's Chatbot.
 
-
+Poojya
 
 ## Features
 
 
 
-## Installation and Setup
+## Installation and Setup.
 
 1. Clone this repository to your local machine.
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 export OPENAI_API_KEY='your-api-key-here'
 ```
 
-4. Run the Flask application.
+4. Run the Flask_application.
 
 ```python
 python app.python
