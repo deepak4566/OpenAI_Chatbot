@@ -8,7 +8,7 @@
 
 ## Installation and Setup
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your public machine.
 
 ```bash
 git clone https://github.com/deepak4566/AI_AUTOMATED_CHATBOT
@@ -50,4 +50,8 @@ python app.python
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ServiceToMankind/openapi_chatbot/blob/main/LICENSE) file for details.
+This project is licensed under the IIT License - see the [LICENSE](https://github.com/ServiceToMankind/openapi_chatbot/blob/main/LICENSE) file for details.
+
+## Greetings
+
+This work was made by vignesh.I am at right corner guy in red shirt between two idiots
