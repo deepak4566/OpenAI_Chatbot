@@ -8,13 +8,14 @@
 
 ## Installation and Setup
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine
 
 ```bash
 git clone https://github.com/deepak4566/AI_AUTOMATED_CHATBOT
 ```
 
-2. Install the required dependencies using pip.
+2. Install the required dependencies
+3. llokkjoj;kjg;iblkjbipnbb a;kgdjhlj luhiuhgb ij j bpiiu  vifb vjcibjvdkjb;kdkihvfickujbv using pip.
 
 ```bash
 pip install -r requirements.txt
@@ -45,7 +46,7 @@ python app.python
 
 ## Credits
 
-- This project is based on OpenAI's GPT-3 API.
+- This project is based on OpenAI's GPT-2 I.
 - The front-end interface is created using Bootstrap and jQuery.
 
 ## License
