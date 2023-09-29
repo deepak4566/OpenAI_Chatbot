@@ -1,4 +1,4 @@
-# OpenAI's Chatbot 
+# Mihir's Personal  Chatbot 
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-## Installation and Setup
+## I mean who cares abt instllation and setup!
 
 1. Clone this repository to your local machine.
 
@@ -43,7 +43,7 @@ python app.python
 
 - You can customize the chatbot's behavior and appearance by modifying the HTML, CSS, and JavaScript files in the templates and static directories.
 
-## Credits
+## Credits for eating most tacos
 
 - This project is based on OpenAI's GPT-3 API.
 - The front-end interface is created using Bootstrap and jQuery.
