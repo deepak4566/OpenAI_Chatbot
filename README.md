@@ -1,5 +1,5 @@
-# OpenAI's Chatbot 
-
+# ricky's Chatbot 
+# 1st year Aero
 
 
 ## Features
