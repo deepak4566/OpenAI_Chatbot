@@ -33,6 +33,8 @@ python app.python
 ```
 
 5. Open your web browser and navigate to http://localhost:5000 to use the chatbot.
+6. completed
+   
 
 ## Usage
 
