@@ -21,12 +21,28 @@ pip install -r requirements.txt
 ```
 
 3. export OPENAI_API_KEY
+    
+    a. If you have windows system :
+    ```python
+    set OPENAI_API_KEY='your-api-key-here'
+    ```
 
-```bash
-export OPENAI_API_KEY='your-api-key-here'
-```
+    b. If you have unix shell :
+    ```bash
+    export OPENAI_API_KEY='your-api-key-here'
+    ```
 
-4. Run the Flask application.
+4. How to get Open API Key 
+
+    a. Go to
+
+    ```link
+    https://platform.openai.com/account/api-keys
+    ```
+
+    b. Click on 'Create new sectret key'
+
+5. Run the Flask application.
 
 ```python
 python app.python
