@@ -2,6 +2,13 @@ import json
 import requests
 
 
+def total_donations():
+donations = {
+"donations": "1000"
+}
+# catch errors
+return json.dumps(donations)
+
 
 def donations_list(month='', year=''):
     #fetch data from api 
